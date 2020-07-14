@@ -1,0 +1,10 @@
+{
+  "name": "default",
+  "type": "sqlite",
+  "database": "src/database/db.sqlite3",
+  "autoSchemaSync": true,
+  "entities": ["src/database/entity/*.js"],
+  "logging": {
+    "logQueries": true
+  }
+}
