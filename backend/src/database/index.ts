@@ -1,13 +1,10 @@
-import { createConnection } from 'typeorm';
+import 'reflect-metadata';
+import { createConnection, getConnectionOptions } from 'typeorm';
 
 export default async function sqliteConnection() {
-  return createConnection({
-    type: 'sqlite',
-    database: './db.sqlite',
-    name: 'default',
-    synchronize: true,
-    entities: ['./entity/*.ts'],
-  })
+  const connectionOptions = await getConnectionOptions('default');
+
+  return createConnection(connectionOptions)
     .then((connection) => console.log('database connected', connection.name))
     .catch((err) => console.log(err));
 }
