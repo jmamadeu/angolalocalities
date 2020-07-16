@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "database": "${workspaceFolder:angolalocalities}/backend/src/database/db.sqlite",
+      "driver": "SQLite",
+      "name": "teste",
+      "previewLimit": 50
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
