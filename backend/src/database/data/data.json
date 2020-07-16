@@ -1,0 +1,115 @@
+{
+  "provinces": [
+    {
+      "name": "Luanda",
+      "iso_code": "LD",
+      "is_capital": true,
+
+      "municipalities": [
+        {
+          "name": "Luanda",
+          "communes_districts": [
+            { "name": "Sambizanga", "type": "Distrito" },
+            { "name": "Rangel", "type": "Distrito" },
+            { "name": "Maianga", "type": "Distrito" },
+            { "name": "Ingombota", "type": "Distrito" },
+            { "name": "Samba", "type": "Distrito" },
+            { "name": "Neves Bendinha", "type": "Distrito" },
+            { "name": "Ngola Kiluanje", "type": "Distrito" }
+          ]
+        },
+        {
+          "name": "Icolo e Bengo",
+          "communes_districts": [
+            { "name": "Cassoneca", "type": "Comuna" },
+            { "name": "Cabiri", "type": "Comuna" },
+            { "name": "Bom Jesus", "type": "Comuna" },
+            { "name": "Caculo Cahango", "type": "Comuna" },
+            { "name": "Quiminha", "type": "Comuna" },
+            { "name": "Catete", "type": "Distrito" },
+            { "name": "Bela Vista", "type": "Distrito" }
+          ]
+        },
+        {
+          "name": "Quiçama",
+          "communes_districts": [
+            { "name": "Muxima", "type": "Comuna" },
+            { "name": "Demba Chio", "type": "Comuna" },
+            { "name": "Chixinge", "type": "Comuna" },
+            { "name": "Mumbondo", "type": "Comuna" },
+            { "name": "Cabo Ledo", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Cacuaco",
+          "communes_districts": [
+            { "name": "Funda", "type": "Comuna" },
+            { "name": "Kikolo", "type": "Distrito" },
+            { "name": "Cacuaco", "type": "Distrito" },
+            { "name": "Mulenvos Baixos", "type": "Distrito" },
+            { "name": "Sequele", "type": "Distrito" }
+          ]
+        },
+        {
+          "name": "Cazenga",
+          "communes_districts": [
+            { "name": "Cazenga", "type": "Distrito" },
+            { "name": "Hoji Ya Henda", "type": "Distrito" },
+            { "name": "11 de Novembro", "type": "Distrito" },
+            { "name": "Kima Kieza", "type": "Distrito" },
+            { "name": "Tala Hadi", "type": "Distrito" },
+            { "name": "Kalawenda", "type": "Distrito" }
+          ]
+        },
+        {
+          "name": "Viana",
+          "communes_districts": [
+            { "name": "Calumbo", "type": "Comuna" },
+            { "name": "Viana", "type": "Distrito" },
+            { "name": "Estalagem", "type": "Distrito" },
+            { "name": "Baia", "type": "Distrito" },
+            { "name": "Kikuxi", "type": "Distrito" },
+            { "name": "Zango", "type": "Distrito" },
+            { "name": "Vila Flor", "type": "Distrito" }
+          ]
+        },
+        {
+          "name": "Belas",
+          "communes_districts": [
+            {
+              "name": "Barra do Kwanza",
+              "type": "Comuna"
+            },
+            { "name": "Quenguela", "type": "Distrito" },
+            { "name": "Morro dos Veados", "type": "Distrito" },
+            { "name": "Ramiros", "type": "Distrito" },
+            { "name": "Vila Verde", "type": "Distrito" },
+            { "name": "Cabolombo", "type": "Distrito" },
+            { "name": "Kilamba", "type": "Distrito" }
+          ]
+        },
+        {
+          "name": "Kilamba Kiaxi",
+          "communes_districts": [
+            { "name": "Golfe", "type": "Distrito" },
+            { "name": "Sapú", "type": "Distrito" },
+            { "name": "Palanca", "type": "Distrito" },
+            { "name": "NovaVida", "type": "Distrito" }
+          ]
+        },
+        {
+          "name": "Talatona",
+          "communes_districts": [
+            { "name": "Mussulo", "type": "Comuna" },
+            { "name": "Benfica", "type": "Distrito" },
+            { "name": "Futungo de Belas", "type": "Distrito" },
+            { "name": "Lar do Patriota", "type": "Distrito" },
+            { "name": "Talatona", "type": "Distrito" },
+            { "name": "Camama", "type": "Distrito" },
+            { "name": "Cidade Universitária", "type": "Distrito" }
+          ]
+        }
+      ]
+    }
+  ]
+}
