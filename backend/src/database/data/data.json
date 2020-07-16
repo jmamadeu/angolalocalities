@@ -110,6 +110,120 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "name": "Cabinda",
+      "iso_code": "CA",
+      "is_capital": false,
+
+      "municipalities": [
+        {
+          "name": "Cabinda",
+          "communes_districts": [
+            { "name": "Cabinda", "type": "Comuna" },
+            { "name": "Malembo", "type": "Comuna" },
+            { "name": "Tando Zinze", "type": "Comuna" }
+           
+          ]
+        },
+        {
+          "name": "Cacongo",
+          "communes_districts": [
+            { "name": "Cacongo", "type": "Comuna" },
+            { "name": "Dinge", "type": "Comuna" },
+            { "name": "Massabi", "type": "Comuna" }
+           
+          ]
+        },  
+        {
+          "name": "Buco Zau",
+          "communes_districts": [
+            { "name": "Buco Zau", "type": "Comuna" },
+            { "name": "Necuto", "type": "Comuna" },
+            { "name": "Inhuca", "type": "Comuna" }
+           
+          ]
+        },
+        {
+          "name": "Belize",
+          "communes_districts": [
+            { "name": "Miconje", "type": "Comuna" },
+            { "name": "Belize", "type": "Comuna" },
+            { "name": "Luali", "type": "Comuna" }
+           
+          ]
+        }
+      ]
+      },
+      {
+        "name": "Zaire",
+        "iso_code": "ZE",
+        "is_capital": false,
+  
+        "municipalities": [
+          {
+            "name": "Soyo",
+            "communes_districts": [
+              { "name": "Soyo", "type": "Comuna" },
+              { "name": "Sumba", "type": "Comuna" },
+              { "name": "Pedra de Feitiço", "type": "Comuna" },
+              { "name": "Quêlo", "type": "Comuna" },
+              { "name": "Mangue Grande", "type": "Comuna" }
+          
+             
+            ]
+          },
+          {
+            "name": "Mbanza Kongo",
+            "communes_districts": [
+              { "name": "Mbanza Kongo", "type": "Comuna" },
+              { "name": "Luvo", "type": "Comuna" },
+              { "name": "Caluca", "type": "Comuna" },
+              { "name": "Madimba", "type": "Comuna" },
+              { "name": "Quiende", "type": "Comuna" },
+              { "name": "Calambata", "type": "Comuna" }
+             
+            ]
+          },  
+          {
+            "name": "Nzeto",
+            "communes_districts": [
+              { "name": "Nzeto", "type": "Comuna" },
+              { "name": "Quindeje", "type": "Comuna" },
+              { "name": "Musserra", "type": "Comuna" },
+              { "name": "Quibala Norte", "type": "Comuna" }
+             
+            ]
+          },
+          {
+            "name": "Tomboco",
+            "communes_districts": [
+              { "name": "Tomboco", "type": "Comuna" },
+              { "name": "Quinsimba", "type": "Comuna" },
+              { "name": "Quinzau", "type": "Comuna" }
+             
+            ]
+          },
+          {
+            "name": "Cuimba",
+            "communes_districts": [
+              { "name": "Cuimba", "type": "Comuna" },
+              { "name": "Buela", "type": "Comuna" },
+              { "name": "Serra da Canda", "type": "Comuna" },
+              { "name": "Luvaca", "type": "Comuna" }
+             
+            ]
+          },{
+            "name": "Nóqui",
+            "communes_districts": [
+              { "name": "Nóqui", "type": "Comuna" },
+              { "name": "Lufico", "type": "Comuna" },
+              { "name": "Mpala", "type": "Comuna" }
+             
+            ]
+          }
+
+        ]
+        }
   ]
 }
