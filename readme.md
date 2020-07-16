@@ -24,5 +24,6 @@ $ yarn dev:server
 
 ## :tada: Contribuição
 
-Este projeto está em desenvolvimento atualmente, e, toda ajuda é bem vinda.
-Precisamos terminar de adicionar os municípios e distritos às províncias, então faça `fork` deste repositório e vá até ao arquivo que está em `src/database/data.json` e adiciona algum município ou qualquer dado em falta, depois faça um `Pull Request` para as tuas alterações serem adicionadas neste repositório.
+Faça `fork` deste repositório desenvolva a sua feature e depois `Pull Request` para as tuas alterações serem adicionadas neste repositório.
+
+Precisamos terminar de adicionar os municípios e distritos às províncias, vá até ao arquivo que está em `src/database/data.json` e adiciona algum município ou qualquer dado em falta, depois faça um `Pull Request` para as tuas alterações serem adicionadas neste repositório.
