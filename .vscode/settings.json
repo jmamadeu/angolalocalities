@@ -1,7 +1,7 @@
 {
   "sqltools.connections": [
     {
-      "database": "${workspaceFolder:angolalocalities}/backend/src/database/db.sqlite",
+      "database": "${workspaceFolder:angolalocalities}/backend/src/database/data/db.sqlite",
       "driver": "SQLite",
       "name": "teste",
       "previewLimit": 50
