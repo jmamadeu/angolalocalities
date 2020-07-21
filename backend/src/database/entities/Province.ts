@@ -7,6 +7,9 @@ export default class Province {
   @PrimaryGeneratedColumn('increment')
   id: number;
 
+  @Column('int', { nullable: false, unique: true })
+  code: number;
+
   @Column('varchar', { nullable: false })
   name: string;
 
@@ -16,7 +19,7 @@ export default class Province {
   @Column('varchar', { nullable: true })
   iso_code: string;
 
-  @Column('boolean')
+  @Column('boolean', { nullable: false })
   is_capital: boolean;
 
   @Column('float', { nullable: true })

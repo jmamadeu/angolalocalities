@@ -27,7 +27,9 @@ export default class Municipality {
   @Column('float', { nullable: true })
   area: number;
 
-  @ManyToOne(() => Province, (province) => province.municipalities)
+  @ManyToOne(() => Province, (province) => province.municipalities, {
+    onDelete: 'CASCADE',
+  })
   @JoinColumn({ name: 'province_id' })
   province: Province;
 
