@@ -19,10 +19,12 @@ export default class CommuneDistrict {
   @Column('float', { nullable: true })
   population: number;
 
-  @Column()
+  @Column('varchar', { nullable: false })
   type: 'Comuna' | 'Distrito';
 
-  @ManyToOne(() => Municipality, (municipality) => municipality)
+  @ManyToOne(() => Municipality, (municipality) => municipality, {
+    onDelete: 'CASCADE',
+  })
   @JoinColumn({ name: 'municipality_id' })
   municipality: Municipality;
 }

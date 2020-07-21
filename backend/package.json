@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev:server": "tsnd --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts",
+    "dev:populate": "tsnd --respawn --transpile-only --ignore-watch node_modules --no-notify src/populateDb.ts",
     "test": "jest"
   },
   "dependencies": {
