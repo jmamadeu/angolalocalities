@@ -19,7 +19,7 @@ export default class Province {
   @Column('varchar', { nullable: true })
   iso_code: string;
 
-  @Column('boolean')
+  @Column('boolean', { nullable: false })
   is_capital: boolean;
 
   @Column('float', { nullable: true })

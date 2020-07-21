@@ -19,7 +19,7 @@ export default class CommuneDistrict {
   @Column('float', { nullable: true })
   population: number;
 
-  @Column()
+  @Column('varchar', { nullable: false })
   type: 'Comuna' | 'Distrito';
 
   @ManyToOne(() => Municipality, (municipality) => municipality, {
