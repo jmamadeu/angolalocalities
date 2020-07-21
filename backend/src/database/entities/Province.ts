@@ -7,6 +7,9 @@ export default class Province {
   @PrimaryGeneratedColumn('increment')
   id: number;
 
+  @Column('int', { nullable: false, unique: true })
+  code: number;
+
   @Column('varchar', { nullable: false })
   name: string;
 

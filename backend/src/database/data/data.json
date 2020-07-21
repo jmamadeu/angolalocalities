@@ -4,6 +4,7 @@
       "name": "Luanda",
       "iso_code": "LD",
       "is_capital": true,
+      "code": 1,
 
       "municipalities": [
         {
@@ -115,6 +116,7 @@
       "name": "Cabinda",
       "iso_code": "CA",
       "is_capital": false,
+      "code": 2,
 
       "municipalities": [
         {
@@ -155,6 +157,7 @@
       "name": "Zaire",
       "iso_code": "ZE",
       "is_capital": false,
+      "code": 3,
 
       "municipalities": [
         {
