@@ -152,405 +152,345 @@
           ]
         }
       ]
-      },
-      {
-        "name": "Zaire",
-        "iso_code": "ZE",
-        "is_capital": false,
-  
-        "municipalities": [
-          {
-            "name": "Soyo",
-            "communes_districts": [
-              { "name": "Soyo", "type": "Comuna" },
-              { "name": "Sumba", "type": "Comuna" },
-              { "name": "Pedra de Feitiço", "type": "Comuna" },
-              { "name": "Quêlo", "type": "Comuna" },
-              { "name": "Mangue Grande", "type": "Comuna" }
-          
-             
-            ]
-          },
-          {
-            "name": "Mbanza Kongo",
-            "communes_districts": [
-              { "name": "Mbanza Kongo", "type": "Comuna" },
-              { "name": "Luvo", "type": "Comuna" },
-              { "name": "Caluca", "type": "Comuna" },
-              { "name": "Madimba", "type": "Comuna" },
-              { "name": "Quiende", "type": "Comuna" },
-              { "name": "Calambata", "type": "Comuna" }
-             
-            ]
-          },  
-          {
-            "name": "Nzeto",
-            "communes_districts": [
-              { "name": "Nzeto", "type": "Comuna" },
-              { "name": "Quindeje", "type": "Comuna" },
-              { "name": "Musserra", "type": "Comuna" },
-              { "name": "Quibala Norte", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Tomboco",
-            "communes_districts": [
-              { "name": "Tomboco", "type": "Comuna" },
-              { "name": "Quinsimba", "type": "Comuna" },
-              { "name": "Quinzau", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Cuimba",
-            "communes_districts": [
-              { "name": "Cuimba", "type": "Comuna" },
-              { "name": "Buela", "type": "Comuna" },
-              { "name": "Serra da Canda", "type": "Comuna" },
-              { "name": "Luvaca", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Nóqui",
-            "communes_districts": [
-              { "name": "Nóqui", "type": "Comuna" },
-              { "name": "Lufico", "type": "Comuna" },
-              { "name": "Mpala", "type": "Comuna" }
-             
-            ]
-          }
-
-        ]
-      },
-      {
-        "name": "Uíge",
-        "iso_code": "UE",
-        "is_capital": false,
-  
-        "municipalities": [
-          {
-            "name": "Dange - Quitexe",
-            "communes_districts": [
-              { "name": "Quitexe", "type": "Comuna" },
-              { "name": "Aldeia Viçosa", "type": "Comuna" },
-              { "name": "Cambamba", "type": "Comuna" },
-              { "name": "Vista Alegre", "type": "Comuna" }
-        
-          
-             
-            ]
-          },
-          {
-            "name": "Bungo",
-            "communes_districts": [
-              { "name": "Bungo", "type": "Comuna" }
-             
-            ]
-          },  
-          {
-            "name": "Ambuíla",
-            "communes_districts": [
-              { "name": "Nova Ambuíla", "type": "Comuna" },
-              { "name": "Quipedro", "type": "Comuna" }
-              
-             
-            ]
-          },
-          {
-            "name": "Negage",
-            "communes_districts": [
-              { "name": "Dimuca", "type": "Comuna" },
-              { "name": "Negage", "type": "Comuna" },
-              { "name": "Quisseque", "type": "Comuna" }
-            
-             
-             
-            ]
-          },
-          {
-            "name": "Puri",
-            "communes_districts": [
-              
-             
-            ]
-          },
-          {
-            "name": "Maquela do Zombo",
-            "communes_districts": [
-              { "name": "Maquela do Zombo", "type": "Comuna" },
-              { "name": "Quibocolo", "type": "Comuna" },
-              { "name": "Béu", "type": "Comuna" },
-              { "name": "Sacandica", "type": "Comuna" },
-              { "name": "Cuilo Futa", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Damba",
-            "communes_districts": [
-              { "name": "Damba", "type": "Comuna" },
-              { "name": "Nsosso", "type": "Comuna" },
-              { "name": "Camatambo", "type": "Comuna" },
-              { "name": "Lêmboa", "type": "Comuna" },
-              { "name": "Petecusso", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Pombo",
-            "communes_districts": [
-              { "name": "Sanza Pombo", "type": "Comuna" },
-              { "name": "Cuilo Pombo", "type": "Comuna" },
-              { "name": "Uamba", "type": "Comuna" },
-              { "name": "Alfândega", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Bembe",
-            "communes_districts": [
-              { "name": "Bembe", "type": "Comuna" },
-              { "name": "Lucunga", "type": "Comuna" },
-              { "name": "Mabaia", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Milunga",
-            "communes_districts": [
-              { "name": "Macocola", "type": "Comuna" },
-              { "name": "Macolo", "type": "Comuna" },
-              { "name": "Milunga", "type": "Comuna" },
-              { "name": "Massau", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Songo",
-            "communes_districts": [
-              { "name": "Songo", "type": "Comuna" },
-              { "name": "Quivuenga", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Quimbele",
-            "communes_districts": [
-              { "name": "Cuango", "type": "Comuna" },
-              { "name": "Icoca", "type": "Comuna" },
-              { "name": "Quimbele", "type": "Comuna" },
-              { "name": "Alto Zaza", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Alto Cauale",
-            "communes_districts": [
-              { "name": "Cangola", "type": "Comuna" },
-              { "name": "Bengo", "type": "Comuna" },
-              { "name": "Caiongo", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Uíge",
-            "communes_districts": [
-              { "name": "Uíge", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Mucaba",
-            "communes_districts": [
-              { "name": "Mucaba", "type": "Comuna" },
-              { "name": "Uando Mucaba", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Buengas",
-            "communes_districts": [
-              { "name": "Buenga Sul", "type": "Comuna" },
-              { "name": "Nova Esperança", "type": "Comuna" },
-              { "name": "Cuilo Camboso", "type": "Comuna" }
-             
-            ]
-          }
-
-
-        ]
-      },
-      {
-        "name": "Bengo",
-        "iso_code": "BO",
-        "is_capital": false,
-  
-        "municipalities": [
-          {
-            "name": "Dande",
-            "communes_districts": [
-              { "name": "Barra do Dande", "type": "Comuna" },
-              { "name": "Caxito", "type": "Comuna" },
-              { "name": "Mabubas", "type": "Comuna" },
-              { "name": "Quicabo", "type": "Comuna" },
-              { "name": "Úcua", "type": "Comuna" }
-        
-          
-             
-            ]
-          },
-          {
-            "name": "Dembos",
-            "communes_districts": [
-             
-              { "name": "Quibaxe", "type": "Comuna" },
-              { "name": "Piri", "type": "Comuna" },
-              { "name": "Paredes", "type": "Comuna" },
-              { "name": "Coxe", "type": "Comuna" }
-
-             
-            ]
-          },  
-          {
-            "name": "Nambuangongo",
-            "communes_districts": [
-              { "name": "Canacassala", "type": "Comuna" },
-              { "name": "Quicunzo", "type": "Comuna" },
-              { "name": "Muxaluando", "type": "Comuna" },
-              { "name": "Quixico", "type": "Comuna" },
-              { "name": "Gombe", "type": "Comuna" },
-              { "name": "Cage", "type": "Comuna" },
-              { "name": "Zala", "type": "Comuna" }
-              
-             
-            ]
-          },
-          {
-            "name": "Bula Atumba",
-            "communes_districts": [
-              { "name": "Bula Atumba", "type": "Comuna" },
-              { "name": "Quiage", "type": "Comuna" }
-                                      
-            ]
-          },
-          {
-            "name": "Ambriz",
-            "communes_districts": [
-              { "name": "Bela Vista", "type": "Comuna" },
-              { "name": "Ambriz", "type": "Comuna" },
-              { "name": "Tabi", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Pango Aluquém",
-            "communes_districts": [
-              { "name": "Pango Aluquém", "type": "Comuna" },
-              { "name": "Cazuangongo", "type": "Comuna" }
-             
-            ]
-          }
-
-
-        ]
-      },
-      {
-        "name": "Cuanza - Norte",
-        "iso_code": "CN",
-        "is_capital": false,
-  
-        "municipalities": [
-          {
-            "name": "Cazengo",
-            "communes_districts": [
-              { "name": "Ndalatando", "type": "Comuna" },
-              { "name": "Canhoca", "type": "Comuna" }
-        
-          
-             
-            ]
-          },
-          {
-            "name": "Golungo Alto",
-            "communes_districts": [
-             
-              { "name": "Golungo Alto", "type": "Comuna" },
-              { "name": "Cambondo", "type": "Comuna" },
-              { "name": "Cêrca", "type": "Comuna" },
-              { "name": "Quiluanje", "type": "Comuna" }
-
-             
-            ]
-          },  
-          {
-            "name": "Cambambe",
-            "communes_districts": [
-              { "name": "Dondo", "type": "Comuna" },
-              { "name": "Massangano", "type": "Comuna" },
-              { "name": "Dange ya Menha", "type": "Comuna" },
-              { "name": "Zenza do Itombe", "type": "Comuna" },
-              { "name": "São Pedro da Quilemba", "type": "Comuna" }
-              
-             
-            ]
-          },
-          {
-            "name": "Samba Cajú",
-            "communes_districts": [
-              { "name": "Samba Cajú", "type": "Comuna" },
-              { "name": "Samba Lucala", "type": "Comuna" }
-                                      
-            ]
-          },
-          {
-            "name": "Ambaca",
-            "communes_districts": [
-              { "name": "Camabatela", "type": "Comuna" },
-              { "name": "Tango", "type": "Comuna" },
-              { "name": "Máua", "type": "Comuna" },
-              { "name": "Bindo", "type": "Comuna" },
-              { "name": "Luinga", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Lucala",
-            "communes_districts": [
-              { "name": "Lucala", "type": "Comuna" },
-              { "name": "Quiangombe", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Banga",
-            "communes_districts": [
-              { "name": "Banga", "type": "Comuna" },
-              { "name": "Caculo Cabaça", "type": "Comuna" },
-              { "name": "Aldeia Nova", "type": "Comuna" },
-              { "name": "Cariamba", "type": "Comuna" }
-             
-            ]
-          },
-          {
-            "name": "Bolongongo",
-            "communes_districts": [
-              { "name": "Bolongongo", "type": "Comuna" },
-              { "name": "Terreiro", "type": "Comuna" },
-              { "name": "Quiquiemba", "type": "Comuna" }
-            ]
-          }
-
-
-        ]
-      }
     },
     {
       "name": "Zaire",
       "iso_code": "ZE",
       "is_capital": false,
       "code": 3,
+
+      "municipalities": [
+        {
+          "name": "Soyo",
+          "communes_districts": [
+            { "name": "Soyo", "type": "Comuna" },
+            { "name": "Sumba", "type": "Comuna" },
+            { "name": "Pedra de Feitiço", "type": "Comuna" },
+            { "name": "Quêlo", "type": "Comuna" },
+            { "name": "Mangue Grande", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Mbanza Kongo",
+          "communes_districts": [
+            { "name": "Mbanza Kongo", "type": "Comuna" },
+            { "name": "Luvo", "type": "Comuna" },
+            { "name": "Caluca", "type": "Comuna" },
+            { "name": "Madimba", "type": "Comuna" },
+            { "name": "Quiende", "type": "Comuna" },
+            { "name": "Calambata", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Nzeto",
+          "communes_districts": [
+            { "name": "Nzeto", "type": "Comuna" },
+            { "name": "Quindeje", "type": "Comuna" },
+            { "name": "Musserra", "type": "Comuna" },
+            { "name": "Quibala Norte", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Tomboco",
+          "communes_districts": [
+            { "name": "Tomboco", "type": "Comuna" },
+            { "name": "Quinsimba", "type": "Comuna" },
+            { "name": "Quinzau", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Cuimba",
+          "communes_districts": [
+            { "name": "Cuimba", "type": "Comuna" },
+            { "name": "Buela", "type": "Comuna" },
+            { "name": "Serra da Canda", "type": "Comuna" },
+            { "name": "Luvaca", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Nóqui",
+          "communes_districts": [
+            { "name": "Nóqui", "type": "Comuna" },
+            { "name": "Lufico", "type": "Comuna" },
+            { "name": "Mpala", "type": "Comuna" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uíge",
+      "iso_code": "UE",
+      "is_capital": false,
+      "code": 4,
+
+      "municipalities": [
+        {
+          "name": "Dange - Quitexe",
+          "communes_districts": [
+            { "name": "Quitexe", "type": "Comuna" },
+            { "name": "Aldeia Viçosa", "type": "Comuna" },
+            { "name": "Cambamba", "type": "Comuna" },
+            { "name": "Vista Alegre", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Bungo",
+          "communes_districts": [{ "name": "Bungo", "type": "Comuna" }]
+        },
+        {
+          "name": "Ambuíla",
+          "communes_districts": [
+            { "name": "Nova Ambuíla", "type": "Comuna" },
+            { "name": "Quipedro", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Negage",
+          "communes_districts": [
+            { "name": "Dimuca", "type": "Comuna" },
+            { "name": "Negage", "type": "Comuna" },
+            { "name": "Quisseque", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Puri",
+          "communes_districts": []
+        },
+        {
+          "name": "Maquela do Zombo",
+          "communes_districts": [
+            { "name": "Maquela do Zombo", "type": "Comuna" },
+            { "name": "Quibocolo", "type": "Comuna" },
+            { "name": "Béu", "type": "Comuna" },
+            { "name": "Sacandica", "type": "Comuna" },
+            { "name": "Cuilo Futa", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Damba",
+          "communes_districts": [
+            { "name": "Damba", "type": "Comuna" },
+            { "name": "Nsosso", "type": "Comuna" },
+            { "name": "Camatambo", "type": "Comuna" },
+            { "name": "Lêmboa", "type": "Comuna" },
+            { "name": "Petecusso", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Pombo",
+          "communes_districts": [
+            { "name": "Sanza Pombo", "type": "Comuna" },
+            { "name": "Cuilo Pombo", "type": "Comuna" },
+            { "name": "Uamba", "type": "Comuna" },
+            { "name": "Alfândega", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Bembe",
+          "communes_districts": [
+            { "name": "Bembe", "type": "Comuna" },
+            { "name": "Lucunga", "type": "Comuna" },
+            { "name": "Mabaia", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Milunga",
+          "communes_districts": [
+            { "name": "Macocola", "type": "Comuna" },
+            { "name": "Macolo", "type": "Comuna" },
+            { "name": "Milunga", "type": "Comuna" },
+            { "name": "Massau", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Songo",
+          "communes_districts": [
+            { "name": "Songo", "type": "Comuna" },
+            { "name": "Quivuenga", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Quimbele",
+          "communes_districts": [
+            { "name": "Cuango", "type": "Comuna" },
+            { "name": "Icoca", "type": "Comuna" },
+            { "name": "Quimbele", "type": "Comuna" },
+            { "name": "Alto Zaza", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Alto Cauale",
+          "communes_districts": [
+            { "name": "Cangola", "type": "Comuna" },
+            { "name": "Bengo", "type": "Comuna" },
+            { "name": "Caiongo", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Uíge",
+          "communes_districts": [{ "name": "Uíge", "type": "Comuna" }]
+        },
+        {
+          "name": "Mucaba",
+          "communes_districts": [
+            { "name": "Mucaba", "type": "Comuna" },
+            { "name": "Uando Mucaba", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Buengas",
+          "communes_districts": [
+            { "name": "Buenga Sul", "type": "Comuna" },
+            { "name": "Nova Esperança", "type": "Comuna" },
+            { "name": "Cuilo Camboso", "type": "Comuna" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bengo",
+      "iso_code": "BO",
+      "is_capital": false,
+      "code": 5,
+
+      "municipalities": [
+        {
+          "name": "Dande",
+          "communes_districts": [
+            { "name": "Barra do Dande", "type": "Comuna" },
+            { "name": "Caxito", "type": "Comuna" },
+            { "name": "Mabubas", "type": "Comuna" },
+            { "name": "Quicabo", "type": "Comuna" },
+            { "name": "Úcua", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Dembos",
+          "communes_districts": [
+            { "name": "Quibaxe", "type": "Comuna" },
+            { "name": "Piri", "type": "Comuna" },
+            { "name": "Paredes", "type": "Comuna" },
+            { "name": "Coxe", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Nambuangongo",
+          "communes_districts": [
+            { "name": "Canacassala", "type": "Comuna" },
+            { "name": "Quicunzo", "type": "Comuna" },
+            { "name": "Muxaluando", "type": "Comuna" },
+            { "name": "Quixico", "type": "Comuna" },
+            { "name": "Gombe", "type": "Comuna" },
+            { "name": "Cage", "type": "Comuna" },
+            { "name": "Zala", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Bula Atumba",
+          "communes_districts": [
+            { "name": "Bula Atumba", "type": "Comuna" },
+            { "name": "Quiage", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Ambriz",
+          "communes_districts": [
+            { "name": "Bela Vista", "type": "Comuna" },
+            { "name": "Ambriz", "type": "Comuna" },
+            { "name": "Tabi", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Pango Aluquém",
+          "communes_districts": [
+            { "name": "Pango Aluquém", "type": "Comuna" },
+            { "name": "Cazuangongo", "type": "Comuna" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cuanza - Norte",
+      "iso_code": "CN",
+      "is_capital": false,
+      "code": 6,
+
+      "municipalities": [
+        {
+          "name": "Cazengo",
+          "communes_districts": [
+            { "name": "Ndalatando", "type": "Comuna" },
+            { "name": "Canhoca", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Golungo Alto",
+          "communes_districts": [
+            { "name": "Golungo Alto", "type": "Comuna" },
+            { "name": "Cambondo", "type": "Comuna" },
+            { "name": "Cêrca", "type": "Comuna" },
+            { "name": "Quiluanje", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Cambambe",
+          "communes_districts": [
+            { "name": "Dondo", "type": "Comuna" },
+            { "name": "Massangano", "type": "Comuna" },
+            { "name": "Dange ya Menha", "type": "Comuna" },
+            { "name": "Zenza do Itombe", "type": "Comuna" },
+            { "name": "São Pedro da Quilemba", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Samba Cajú",
+          "communes_districts": [
+            { "name": "Samba Cajú", "type": "Comuna" },
+            { "name": "Samba Lucala", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Ambaca",
+          "communes_districts": [
+            { "name": "Camabatela", "type": "Comuna" },
+            { "name": "Tango", "type": "Comuna" },
+            { "name": "Máua", "type": "Comuna" },
+            { "name": "Bindo", "type": "Comuna" },
+            { "name": "Luinga", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Lucala",
+          "communes_districts": [
+            { "name": "Lucala", "type": "Comuna" },
+            { "name": "Quiangombe", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Banga",
+          "communes_districts": [
+            { "name": "Banga", "type": "Comuna" },
+            { "name": "Caculo Cabaça", "type": "Comuna" },
+            { "name": "Aldeia Nova", "type": "Comuna" },
+            { "name": "Cariamba", "type": "Comuna" }
+          ]
+        },
+        {
+          "name": "Bolongongo",
+          "communes_districts": [
+            { "name": "Bolongongo", "type": "Comuna" },
+            { "name": "Terreiro", "type": "Comuna" },
+            { "name": "Quiquiemba", "type": "Comuna" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Zaire",
+      "iso_code": "ZE",
+      "is_capital": false,
+      "code": 7,
 
       "municipalities": [
         {
