@@ -22,7 +22,9 @@ export default class CommuneDistrict {
   @Column()
   type: 'Comuna' | 'Distrito';
 
-  @ManyToOne(() => Municipality, (municipality) => municipality)
+  @ManyToOne(() => Municipality, (municipality) => municipality, {
+    onDelete: 'CASCADE',
+  })
   @JoinColumn({ name: 'municipality_id' })
   municipality: Municipality;
 }
